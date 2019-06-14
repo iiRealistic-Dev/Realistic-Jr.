@@ -1,13 +1,19 @@
-"dependencies": {
+  "dependencies": {
     "express": "^4.16.4",
     "discord": "^0.8.2",
-    "discord.js": "^11.5.0",
+    "discord.js": "^11.5.1",
     "ms": "^2.1.1",
     "pms": "^5.2.1",
     "compression": "^1.7.4",
+    "portastic": "^1.0.1",
     "ffmpeg-binaries": "^4.0.0",
-    "node-opus": "^0.3.1",
+    "node-opus": "^0.3.2",
     "ytdl-core": "^0.29.2",
     "urban": "^0.3.2",
+    "quick.db": "^6.3.2",
+    "canvas": "^2.5.0",
+    "mathjs": "^5.10.3",
+    "random-puppy": "^1.1.0",
+    "sequelize": "^5.8.7",
     "sqlite3": "^4.0.8"
-  }
+  },
